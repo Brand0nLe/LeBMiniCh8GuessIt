@@ -1,0 +1,15 @@
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/bin/Debug/net6.0/LeBMiniCh8GuessIt
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/bin/Debug/net6.0/LeBMiniCh8GuessIt.deps.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/bin/Debug/net6.0/LeBMiniCh8GuessIt.runtimeconfig.json
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/bin/Debug/net6.0/LeBMiniCh8GuessIt.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/bin/Debug/net6.0/LeBMiniCh8GuessIt.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.csproj.AssemblyReference.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.AssemblyInfoInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.AssemblyInfo.cs
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.csproj.CoreCompileInputs.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/refint/LeBMiniCh8GuessIt.dll
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.pdb
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/LeBMiniCh8GuessIt.genruntimeconfig.cache
+/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/Debug/net6.0/ref/LeBMiniCh8GuessIt.dll
