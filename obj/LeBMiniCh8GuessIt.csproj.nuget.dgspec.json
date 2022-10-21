@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj": {}
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj": {}
   },
   "projects": {
-    "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj": {
+    "/Users/marcelrodriguez/Codestack22-23/GitRepository/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj",
+        "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/GitRepository/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj",
         "projectName": "LeBMiniCh8GuessIt",
-        "projectPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj",
-        "packagesPath": "/Users/brandonle/.nuget/packages/",
-        "outputPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh8GuessIt/obj/",
+        "projectPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/LeBMiniCh8GuessIt/LeBMiniCh8GuessIt.csproj",
+        "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
+        "outputPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/LeBMiniCh8GuessIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandonle/.nuget/NuGet/NuGet.Config"
+          "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
